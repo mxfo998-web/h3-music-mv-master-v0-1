@@ -1,0 +1,8 @@
+interface:
+  display_name: "故事型音乐 MV 制作"
+  short_description: "默认16:9、4–15秒独立镜头的电影剧情MV提示词流程"
+  default_prompt: "Use $h3-music-mv-master-v0-1 to create a complete story-driven MV prompt package without generating images or video."
+policy:
+  allow_implicit_invocation: true
+
+
